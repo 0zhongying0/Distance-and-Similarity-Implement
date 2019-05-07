@@ -6,10 +6,10 @@ a implement of several distances such as Euclidean distance, Chebyshev distance.
 - numpy
 - scipy
 ### Example
-'''
+```
 from distance import euclidean_distance as eucd
 eucd(x, y) # x,y is n-dim vectors
-'''
+```
 ## Euclidean Distance（欧几里得距离）
 ## Manhattan Distance（曼哈顿距离）
 ## Minkowski Distance（）
