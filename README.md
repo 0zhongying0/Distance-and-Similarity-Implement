@@ -8,7 +8,7 @@ an implement of several distances such as Euclidean distance, Chebyshev distance
 ### Example
 ```
 from distance import euclidean_distance as eucd
-eucd(x, y) # x,y is n-dim vectors
+d = eucd(x, y) # x,y is n-dim vectors
 ```
 ## Distances and Similarities
 ### Euclidean Distance（欧几里得距离）
