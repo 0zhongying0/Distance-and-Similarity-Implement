@@ -1,7 +1,7 @@
 # Distance-and-Similarity-Implement
 an implement of several distances such as Euclidean distance, Chebyshev distance. 
 ## Usage
-### Dependence
+### Dependences
 - python3
 - numpy
 - scipy
